@@ -2,7 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include "CD28Sept.h"
+#include "IS_cell.h"
 
 #include "qcustomplotCD.h"
 
